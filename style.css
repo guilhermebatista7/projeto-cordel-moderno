@@ -23,7 +23,7 @@ header {
     background-color: black;
     color: white;
     font-family: var(--fonte01);
-    min-height: 20vw;
+    min-height: 22vw;
     width: 100%;
     margin: 0px 0px 15px; 
     padding-bottom: 20px;    
@@ -66,7 +66,7 @@ div.padrao {
 }
 
 .padrao > p {
-    font-size: 3.5vw;
+    font-size: 3.2vw;
     line-height: 8vw;
 }
 
@@ -75,7 +75,7 @@ article.container1 {
     background-size: cover;
     
     position: relative;
-    height: 80vw;
+    height: 88vw;
     margin: 85px 0px 35px 0px;
 }
 
@@ -88,18 +88,17 @@ div.conteudo1 {
     max-height: 120vh;
     min-height: 20vh;
     max-width: 50vw;
-    margin-bottom: 20px;
     
     padding: 3vh 3vh 3vh 3vh;
     text-shadow: 1px 1px black;
     
-    transform: translate(0%,50%);
-    left: 5%;
-    top: -32%;
+    transform: translate(15%, 18%);
+    left: 0%;
+    top: 0%;
 }
 
 .conteudo1 > p {
-    font-size: 3.5vw;
+    font-size: 3.2vw;
     line-height: 8vw;
 }
 
@@ -113,7 +112,7 @@ article.container2 {
     background-size: cover;
     
     position: relative;
-    height: 80vw;
+    height: 88vw;
     margin: 85px 0px 35px 0px;
 }
 
@@ -121,23 +120,22 @@ div.conteudo2 {
     position: absolute;
     background-color: rgba(0, 0, 0, 0.423);
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: center left;
     color: white;
     max-height: 120vh;
     min-height: 20vh;
     max-width: 50vw;
-    margin-bottom: 20px;
     
     padding: 3vh 3vh 3vh 3vh;
     text-shadow: 1px 1px black;
     
-    transform: translate(0%,50%);
-    left: 5%;
-    top: -32%;
+    transform: translate(15%, 18%);
+    left: 0%;
+    top: 0%;
 }
 
 .conteudo2 > p {
-    font-size: 3.5vw;
+    font-size: 3.2vw;
     line-height: 8vw;
 }
 
