@@ -53,6 +53,10 @@ div {
     font-size: 3.5vw;
 }
 
+div.padrao p {
+    padding-bottom: 20px;
+}
+
 div.imagem#primeira {
     background: white url('imagens/fotojoaninha.jpg') center center no-repeat fixed;
     background-size: cover;
